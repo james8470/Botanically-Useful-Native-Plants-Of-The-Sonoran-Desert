@@ -32,4 +32,4 @@ This is a datasheet containing information for over 500 botanically useful plant
 *Remaining columns describe the edible or medicinal sections of the plants, what the plant may be used for medicinally (if applicable), and which indigenous groups have been documented to use them.
 
 ##Example Choropleth Map
-![alt text](https://github.com/[james8470]/[Botanically-Useful-Native-Plants-Of-The-Sonoran-Desert]/blob/[main]/EXAMPLEGISMAP.png?raw=true)
+![alt text](https://i.imgur.com/XCazXU4.jpg)
