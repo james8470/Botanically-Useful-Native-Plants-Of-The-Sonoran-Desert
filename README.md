@@ -34,3 +34,17 @@ This is a datasheet containing information for over 500 botanically useful plant
 Generated from the datasheet using QGIS
 
 ![alt text](https://i.imgur.com/XCazXU4.jpg)
+
+## Works Cited
+
+Dimmitt, M. A., Comus, P. W., Phillips, S. J., & Brewer, L. M. (Eds.). (2015). A natural history of the Sonoran Desert. Univ of California Press.
+
+Hodgson, W. C. (2001). Food plants of the Sonoran Desert. University of Arizona Press.
+
+Kane, C. W. (2011). Medicinal plants of the American southwest. Lincoln Town Press.
+
+Kartesz, J.T., The Biota of North America Program (BONAP). 2015. North American Plant Atlas. (http://bonap.net/napa). Chapel Hill, N.C. [maps generated from Kartesz, J.T. 2015. Floristic Synthesis of North America, Version 1.0. Biota of North America Program (BONAP). (in press)].  
+
+Little, E. L., & Viereck, L. A. (1971). Atlas of United States Trees:(no. 1146). Conifers and important hardwoods, by EL Little, Jr (Vol. 1, No. 1146). US Government printing office.
+
+Moerman, D. E. (1998). Native american ethnobotany. Timber press.
