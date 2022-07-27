@@ -32,5 +32,6 @@ This is a datasheet containing information for over 500 botanically useful plant
 *Remaining columns describe the edible or medicinal sections of the plants, what the plant may be used for medicinally (if applicable), and which indigenous groups have been documented to use them.
 
 ## Example Choropleth Map
+Generated from the datasheet using QGIS
 
 ![alt text](https://i.imgur.com/XCazXU4.jpg)
