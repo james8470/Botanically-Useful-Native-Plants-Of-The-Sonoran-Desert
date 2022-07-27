@@ -1,6 +1,6 @@
 Botanically Useful Native Plants of the Sonoran Desert [![DOI](https://zenodo.org/badge/518625634.svg)](https://zenodo.org/badge/latestdoi/518625634)
 =====================
-This is a datasheet containing information for over 500 botanically useful plants native to the Sonoran Desert. 
+This is a datasheet containing information for over 500 botanically useful plants native to the Sonoran Desert. Intended for scientific study and general use. This datasheet describes what the plants may be used for and which indigenous groups have been documented to use them, however this datasheet does not describe how to use the plants.
 
 ## Object Descriptions
 
