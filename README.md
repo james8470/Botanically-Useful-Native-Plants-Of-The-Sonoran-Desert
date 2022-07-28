@@ -42,6 +42,8 @@ Dimmitt, M. A., Comus, P. W., Phillips, S. J., & Brewer, L. M. (Eds.). (2015). A
 
 Hodgson, W. C. (2001). Food plants of the Sonoran Desert. University of Arizona Press.
 
+IUCN. 2022. The IUCN Red List of Threatened Species. Version 2022-1. https://www.iucnredlist.org. Accessed on [7/27/2022].
+
 Kane, C. W. (2011). Medicinal plants of the American southwest. Lincoln Town Press.
 
 Kartesz, J.T., The Biota of North America Program (BONAP). 2015. North American Plant Atlas. (http://bonap.net/napa). Chapel Hill, N.C. [maps generated from Kartesz, J.T. 2015. Floristic Synthesis of North America, Version 1.0. Biota of North America Program (BONAP). (in press)].  
