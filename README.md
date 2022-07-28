@@ -1,8 +1,8 @@
-Botanically Useful Native Plants of the Sonoran Desert [![DOI](https://zenodo.org/badge/518625634.svg)](https://zenodo.org/badge/latestdoi/518625634)
+Botanically Useful Native Plants of the Sonoran Desert
 =====================
-This is a datasheet containing information for over 500 botanically useful plants native to the Sonoran Desert. Intended for scientific study and general use. This datasheet describes what the plants may be used for and which indigenous groups have been documented to use them, however this datasheet does not describe how to use the plants.
+This is a datasheet containing information for over 500 botanically useful plants native to the Sonoran Desert. Intended for scientific study and general use. This datasheet describes what the plants may be used for, which parts of the plants may be used, and which indigenous groups have been documented to use them. This datasheet is not intended as a usage guide, some plants may be toxic unless properly prepared.
 
-## Object Descriptions
+## Descriptions of Variables 
 
 "Lifecycle" - If the plant typically completes its lifecycle in one year ("Annual"), two years ("Biannual"), or over multiple years ("Perennial")
 
