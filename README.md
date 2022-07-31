@@ -33,7 +33,7 @@ This is a datasheet containing information for over 500 botanically useful plant
 ## Example Visualizations
 
 ![alt text](https://i.imgur.com/XCazXU4.jpg)
-![alt text](https://i.imgur.com/Q6AbL9s.png)
+![alt text](https://i.imgur.com/nYXcODn.png)
 ![alt text](https://i.imgur.com/94qi8Aq.png)
 
 ## Works Cited
