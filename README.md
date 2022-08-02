@@ -33,10 +33,12 @@ This is a datasheet containing information for over 500 botanically useful plant
 ## Example Visualizations
 
 ![alt text](https://i.imgur.com/XCazXU4.jpg)
+![alt text](https://i.imgur.com/DXpbPGB.png)
+![alt text](https://i.imgur.com/ARACaTs.png)
 ![alt text](https://i.imgur.com/nYXcODn.png)
 ![alt text](https://i.imgur.com/94qi8Aq.png)
 
-## Works Cited
+## Bibliography
 
 Dimmitt, M. A., Comus, P. W., Phillips, S. J., & Brewer, L. M. (Eds.). (2015). A natural history of the Sonoran Desert. Univ of California Press.
 
